@@ -3,3 +3,6 @@ apple2
 pear
 plum
 peach
+apple3
+pear
+
